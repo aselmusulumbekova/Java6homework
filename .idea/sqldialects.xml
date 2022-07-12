@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/b17f75f7-f12a-484d-ba2a-c30bbff02cbc/console.sql" dialect="PostgreSQL" />
+  </component>
+</project>
